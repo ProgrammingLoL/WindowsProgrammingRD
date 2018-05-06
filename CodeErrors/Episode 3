@@ -1,0 +1,1 @@
+In EnableProtection() function, it's __writecr0 instead of __writecro().
